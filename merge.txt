@@ -1,1 +1,1 @@
-Line from main branch
+MERGE_RESOLVED
